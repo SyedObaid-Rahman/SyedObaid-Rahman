@@ -1,4 +1,4 @@
-<img  align="center" width="950" height="250" src= "https://github.com/SyedObaid-Rahman/SyedObaid-Rahman/blob/main/support/banner.gif"/>
+<img  align="center" width="850" height="250" src= "https://github.com/SyedObaid-Rahman/SyedObaid-Rahman/blob/main/support/banner.gif"/>
 <h1 align="center">Hi 👋,Traveler, I'm Syed Obaid Rahman</h1>
 <h3 align="center">A passionate Full-Stack Engineer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=syedobaid-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="syedobaid-rahman" /> </p>
