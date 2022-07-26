@@ -37,7 +37,7 @@
 - 📄 Know about my experiences [link](link)
 
 
-
+<h3 align="left">GitHub Awards</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedobaid-rahman" alt="syedobaid-rahman" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
