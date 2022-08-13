@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at [link](https://github.com/SyedObaid-Rahman?tab=repositories)
 - 📝 I regularly write articles on [link](link)
 - 💬 Ask me about **..anything!**
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences and Certification [link](link)
 
 
 <h2 align="left">GitHub Awards:</h2>
