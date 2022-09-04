@@ -22,7 +22,7 @@
 
 
 - 🔭 I’m currently working on **my thesis paper alone with "Web3" backend projects**
-- 🌱 I’m currently learning **Node.js ,Django ,and Microsoft Azure**
+- 🌱 I’m currently learning **Node.js ,Django ,and Microsoft Azure!**
 - 👯 I’m looking to collaborate on **open source**
 - 👨‍💻 All of my projects are available at [link](https://github.com/SyedObaid-Rahman?tab=repositories)
 - 📝 I regularly write articles on [link](link)
