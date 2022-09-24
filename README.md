@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on **open source**
 - 👨‍💻 All of my projects are available at [link](https://github.com/SyedObaid-Rahman?tab=repositories)
 - 📝 I regularly write articles on [link](link)
-- 💬 Ask me about **..anything!**
+- 💬 Ask me about **....anything!**
 - 📄 Know about my experiences and Certification [link](https://www.linkedin.com/in/syed-obaid-rahman-6b85a1200/)
 
 
